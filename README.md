@@ -118,3 +118,8 @@ v1.4.6 - 2014/1/15
 v1.4.7 - 2014/1/15
 
 * added rewrite url function to module, since it was removed from tinytinyrss
+
+v1.4.8 – 2018/1/8
+* Forked from wodev/tinytinyrss-fever-plugin
+* Works with current version 17.12	of Tiny Tiny RSS (Thanks to user wodev!)
+
